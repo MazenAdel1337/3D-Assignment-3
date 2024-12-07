@@ -1,0 +1,9 @@
+C:\Users\Ahmed\source\repos\assignment_3_3d\assignment_3_3d\bin\Debug\assignment_3_3d.exe.config
+C:\Users\Ahmed\source\repos\assignment_3_3d\assignment_3_3d\bin\Debug\assignment_3_3d.exe
+C:\Users\Ahmed\source\repos\assignment_3_3d\assignment_3_3d\bin\Debug\assignment_3_3d.pdb
+C:\Users\Ahmed\source\repos\assignment_3_3d\assignment_3_3d\obj\Debug\assignment_3_3d.csproj.AssemblyReference.cache
+C:\Users\Ahmed\source\repos\assignment_3_3d\assignment_3_3d\obj\Debug\assignment_3_3d.Properties.Resources.resources
+C:\Users\Ahmed\source\repos\assignment_3_3d\assignment_3_3d\obj\Debug\assignment_3_3d.csproj.GenerateResource.cache
+C:\Users\Ahmed\source\repos\assignment_3_3d\assignment_3_3d\obj\Debug\assignment_3_3d.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed\source\repos\assignment_3_3d\assignment_3_3d\obj\Debug\assignment_3_3d.exe
+C:\Users\Ahmed\source\repos\assignment_3_3d\assignment_3_3d\obj\Debug\assignment_3_3d.pdb
